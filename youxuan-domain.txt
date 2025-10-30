@@ -109,3 +109,11 @@ unbounce.com
 prestashop.com
 www.zendesk.com
 craftcms.com
+dns.icoa.cn
+downloads.joomla.org
+www.joomla.org
+jquery.com
+centminmod.com
+umbraco.com
+unpkg.com
+www.jsdelivr.com
