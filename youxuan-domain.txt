@@ -117,3 +117,5 @@ centminmod.com
 umbraco.com
 unpkg.com
 www.jsdelivr.com
+redis.io
+www.postman.com
