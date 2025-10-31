@@ -1,5 +1,6 @@
 cf.tencentapp.cn
 spring.io
+mvnrepository.com
 www.wto.org
 whatismyipaddress.com
 www.pcmag.com
@@ -8,6 +9,7 @@ www.iplocation.net
 www.ipchicken.com
 russia.com
 japan.com
+servo.org
 ip.sb
 singapore.com
 yongboss.cloudflare.byoip.top
