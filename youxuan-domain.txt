@@ -6,9 +6,11 @@ junit.org
 www.wto.org
 whatismyipaddress.com
 www.pcmag.com
+git-scm.com
 iplocation.io
 www.iplocation.net
 www.ipchicken.com
+www.npmjs.com
 russia.com
 japan.com
 servo.org
