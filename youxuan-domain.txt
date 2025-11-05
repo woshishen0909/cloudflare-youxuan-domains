@@ -12,6 +12,7 @@ www.ipchicken.com
 russia.com
 japan.com
 servo.org
+dnschecker.org
 ip.sb
 singapore.com
 yongboss.cloudflare.byoip.top
