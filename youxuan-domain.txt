@@ -1,6 +1,8 @@
 cf.tencentapp.cn
+cn.vuejs.org
 spring.io
 mvnrepository.com
+junit.org
 www.wto.org
 whatismyipaddress.com
 www.pcmag.com
