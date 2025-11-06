@@ -13,6 +13,7 @@ www.ipchicken.com
 www.npmjs.com
 russia.com
 japan.com
+appmaster.io
 servo.org
 dnschecker.org
 ip.sb
