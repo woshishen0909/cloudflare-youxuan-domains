@@ -11,6 +11,8 @@ iplocation.io
 www.iplocation.net
 www.ipchicken.com
 www.npmjs.com
+www.torproject.org.cn
+www.kali.org
 russia.com
 japan.com
 appmaster.io
