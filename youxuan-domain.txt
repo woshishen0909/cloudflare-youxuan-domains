@@ -30,7 +30,6 @@ bestcf.030101.xyz
 cf.cloudflare.182682.xyz
 cdn.2020111.xyz
 cf.0sm.com
-cdns.doon.eu.org
 cf.130519.xyz
 cf.877771.xyz
 cfip.1323123.xyz
