@@ -2,6 +2,7 @@ cf.tencentapp.cn
 cn.vuejs.org
 spring.io
 mvnrepository.com
+cfyx.aliyun.20237737.xyz
 junit.org
 www.wto.org
 whatismyipaddress.com
