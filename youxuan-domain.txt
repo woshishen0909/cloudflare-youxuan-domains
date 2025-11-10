@@ -14,6 +14,7 @@ www.npmjs.com
 www.torproject.org.cn
 www.kali.org
 russia.com
+nexusmods.com
 japan.com
 appmaster.io
 servo.org
