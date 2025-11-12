@@ -78,7 +78,6 @@ cfsaas.080112.xyz
 www.5199dy.com
 cf-cname.xingpingcn.top
 cdn.2020111.xyz
-nrt.xxxxxxxx.nyc.mn
 bestcf.top
 www.speedtest.net
 nrtcfdns.zone.id
