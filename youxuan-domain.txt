@@ -10,6 +10,7 @@ cfyx.aliyun.20237737.xyz
 junit.org
 www.wto.org
 whatismyipaddress.com
+zero-trust-client.cloudflareclient.com
 www.pcmag.com
 git-scm.com
 bbs.alipansou.com
