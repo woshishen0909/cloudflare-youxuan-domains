@@ -3,6 +3,7 @@ b3.cfyx.20237737.xyz
 cn.vuejs.org
 spring.io
 www.veryssl.com
+cfyx.dnspod.20237737.xyz
 mvnrepository.com
 cfyx.aliyun.20237737.xyz
 859ct.cc
