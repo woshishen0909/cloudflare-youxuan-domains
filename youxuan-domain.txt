@@ -61,16 +61,11 @@ nrtcfdns.zone.id
 saas.sin.fan
 xn--b6gac.eu.org
 777.ai7777777.xyz
-qms.shenyu.qzz.io
-cm.shenyu.qzz.io
 bp5.shenyu.qzz.io
 bp4.shenyu.qzz.io
 bp3.shenyu.qzz.io
 bp2.shenyu.qzz.io
 bp1.shenyu.qzz.io
-lt.shenyu.qzz.io
-yd.shenyu.qzz.io
-dx.shenyu.qzz.io
 staticdelivery.nexusmods.com
 store.ubi.com
 www.shopify.com
