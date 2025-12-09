@@ -5,6 +5,10 @@ m.iyf.tv
 spring.io
 www.veryssl.com
 cfyx.dnspod.20237737.xyz
+sjccfdns.zone.id
+laxcfdns.zone.id
+nrtcfdns.zone.id
+fracfdns.zone.id
 mvnrepository.com
 cfyx.aliyun.20237737.xyz
 859ct.cc
