@@ -87,8 +87,6 @@ cloudflare.moeyy.xyz
 ip.skk.moe
 cmcc.877774.xyz
 www.ntu.edu.sg
-ping.pe
-www.whoer.net
 cfip.xxxxxxxx.tk
 cf2.996616.xyz
 cf3.996616.xyz
@@ -105,7 +103,6 @@ www.who-hosts-this.com
 www.commerce.gov
 www.epicgames.com
 encryptedsni.com
-elementor.com
 wpbakery.com
 www.opencart.com
 www.hubspot.com
